@@ -1,1 +1,4 @@
-<h1 style="color:pink">Flutter Admin Panel</h1>
+.h1tag{
+color:pink;
+}
+<h1 class = "h1tag">Flutter Admin Panel</h1>
